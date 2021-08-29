@@ -13,7 +13,7 @@
 - Postman to test the API
 
 ### After cloning this repo
-Run `npm install`
+Run `npm install` \
 Create `.env` file in server folder and put in `jwtSecret = <your_jwt_secret>`. Eg. `jwtSecret = abc123`
 
 ### Running the server
