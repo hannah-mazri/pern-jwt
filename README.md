@@ -8,9 +8,9 @@
 - React
 - Node.js v14
 
-### Pre-requisites
-- Install postgres. [Watch guide](https://youtu.be/fZQI7nBu32M)
-- Postman to test the API
+### Prerequisites
+- Install postgres. [Watch installation guide](https://youtu.be/fZQI7nBu32M)
+- [Postman](https://www.postman.com/downloads/) to test the API
 
 ### After cloning this repo
 - Run `npm install`
