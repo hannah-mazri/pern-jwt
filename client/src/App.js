@@ -6,11 +6,16 @@ import {
   Redirect,
 } from 'react-router-dom';
 
+import { toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
 import Dashboard from './components/Dashboard';
 import Login from './components/Login';
 import Register from './components/Register';
 
 import './index.css';
+
+toast.configure();
 
 function App() {
   const [isAuthenticated, setTisAuthenticated] = useState(false);
